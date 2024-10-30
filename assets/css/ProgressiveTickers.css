@@ -1,0 +1,76 @@
+﻿.JackpotTotalsUpperBox, .JackpotTotalsBottomBox
+{
+    font-weight: bold;
+}
+
+.JackpotTotalsUpperBox a
+{
+    text-decoration: none;
+}
+
+.JackpotTotalLink
+{
+    text-decoration: none;
+    color: inherit;
+}
+
+.progressiveDiv
+{
+    text-align: center;
+    display: block;
+    width: 200px;
+}
+
+.progressiveDivJackpot
+{
+    text-align: center;
+    display: block;
+}
+
+.progressiveImg
+{
+    border: 0px;
+    margin-bottom: 10px;
+}
+
+.progressiveInput
+{
+    border: 0px none;
+    margin: 0px;
+    padding: 0px;
+    background-color: transparent;
+    text-align: center;
+    font-weight: inherit;
+}
+
+.moduleNameDiv
+{
+    float: left;
+}
+
+.casinoDropDown, .casinoList, .progressiveInput
+{
+    font-family: inherit;
+    font-weight: inherit;
+    font-size: inherit;
+    color: inherit;
+    width: inherit;
+}
+
+.errorText
+{
+    color: Red;
+    font-family: Arial,Helvetica,Geneva,Sans-Serif;
+    font-weight: bold;
+    font-size: 11pt;
+}
+
+div.jackpots{
+    width:100%;
+    text-align: left;
+}
+div.jackpot{
+    min-width:100px;
+    display: inline-block;
+    padding: 5px 10px;
+}
